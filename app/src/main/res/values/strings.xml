@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">MAD Class Project</string>
+
+    <string name="html">
+        <![CDATA[
+        <h1>Admissions</h1>
+        <p>To be unconditionally admitted to complete UCC undergraduate programmes,
+        individuals should possess a minimum of <b>five (5) subjects at the GCE or CSEC level </b>
+        (including the mandatory English Language and Mathematics) at grades A, B, C or 1, 2, 3
+        respectively. A CSEC pass at level 3 must have been obtained since 1998.
+        </p>
+        <p>Candidates who have a minimum of <b>4 CXCs</b> can also apply pending the outstanding
+        CXC subjects or can opt to do UCC replacement courses Core Mathematics, English for Academic
+        Purpose and Fundamentals of Accounting.
+        </p>
+        <p>Candidates can opt to apply under the Mature Entry option. To be accepted, applicants
+        must be working for <b>5 years</b> or more and be at a minimum age of <b>25 years</b>.
+        Academic qualifications, a detailed resume, a job letter and 3 professional references
+        will be required.
+        </p>
+      <style>
+      a.button {
+        display: inline-block;
+        background-color: #7b38d8;
+        border-radius: 10px;
+        border: 4px double #cccccc;
+        color: #eeeeee;
+        text-align: center;
+        font-size: 20px;
+        padding: 18px;
+        width: 250px;
+        -webkit-transition: all 0.5s;
+        -moz-transition: all 0.5s;
+        -o-transition: all 0.5s;
+        transition: all 0.5s;
+        cursor: pointer;
+        margin: 5px;
+      }
+    </style>
+    <a href="https://ucc.edu.jm/apply/undergraduate/preform" class="button">Tap Here to Apply</a>
+        ]]>
+    </string>
+
+    <string-array name="staff_dir">
+        <item>Adrian-Leigh Gilman \n
+            Email: agilman@ucc.edu.jm\n
+            Phone: 876-555-1234
+        </item>
+        <item>Lori-Ann Gordon</item>
+        <item>Miguel</item>
+        <item>Kerry</item>
+        <item>Lisa</item>
+        <item>Natalie Rose</item>
+    </string-array>
+
+    <string-array name="course_list">
+        <item>ITT105 Computer Troubleshooting and Repairs. This introductory course in computer
+            troubleshooting and repairs is designed to give students hands-on experience in diagnosing
+            and solving some of the common hardware and software problems that can occur during the
+            normal usage of a computer. </item>
+        <item>ITT201 Data Communications and Networks I
+            This introductory course in Data Communications and Networks is designed to give students an
+            understanding of networks and how they can be used in organizations to increase efficiency.
+            It will also introduce IP addressing and subnets and briefly look at security issues in networking.</item>
+        <item>ITT102 Discrete Mathematics I
+            This course will introduce students to the basic idea as to how computer systems are designed and provide
+            a realistic picture of the internal workings and design of computer systems.</item>
+        <item>ITT200 Object-Oriented Programming using C++ This course aims to broaden the student’s knowledge of concepts
+            and features of an object-oriented programming language. Students will be required to use these concepts to
+            design solutions for real world problems.</item>
+        <item>ITT203 Data Structures and File Management I
+            This is an introductory course in data structures and file management. It will introduce the concepts
+            of data structures and file management so that students become more familiar with how data is organized
+            and manipulated. It provides students with the theoretical framework for further advanced practical
+            studies in data structures and file management.</item>
+        <item>ITT301 Data Structures and File Management II
+            This is an advanced practical course in data structures and file management. It will broaden the knowledge gained
+            in Data Structures and File Management I. The course introduces the student to additional data structures
+            such as trees, sets, graphs, and advanced techniques in sorting (internal and external).</item>
+        <item>ITT405 Human Computer Interaction and Interface Design
+            This course examines the interaction between humans and computers and explores the design of computer
+            interfaces that are based on the abilities, limitations, and goals of the users. Students will be introduced
+            to the principles underlying the interaction of humans with computers and the design of computer interfaces
+            by reviewing the theories and current research in the area.</item>
+
+
+    </string-array>
+
+
+</resources>

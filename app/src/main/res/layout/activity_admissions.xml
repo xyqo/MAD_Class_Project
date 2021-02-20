@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:elevation="20dp"
+    tools:context=".admissions">
+
+    <ImageView
+        android:id="@+id/ucclogo_adm"
+        android:layout_width="389dp"
+        android:layout_height="67dp"
+        android:background="#3F51B5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@mipmap/logo_cr" />
+
+    <WebView
+        android:id="@+id/wv_admit"
+        android:layout_width="match_parent"
+        android:layout_height="750dp"
+        app:layout_constraintTop_toBottomOf="@+id/ucclogo_adm"
+        tools:layout_editor_absoluteX="188dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
