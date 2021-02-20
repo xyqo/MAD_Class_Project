@@ -311,7 +311,7 @@
                         android:layout_height="159dp"
                         android:layout_marginTop="36dp"
                         android:background="#FFFFFF"
-                        android:text="3 Credits \n Prerequsites:  ITT208 \n This course continues from Internet Authoring I, covering some of the same topics in more depth. This course coversvtopics in networking technologies for the web, web UI design and site design, client-server architecture and client-side and server-side programming. It covers relevant topics in e-commerce, web security, and engineering concepts such as the three-tier architecture and frameworks for the web."
+                        android:text="3 Credits \n Prerequsites: ITT208 \n This course continues from Internet Authoring I, covering some of the same topics in more depth. This course coversvtopics in networking technologies for the web, web UI design and site design, client-server architecture and client-side and server-side programming. It covers relevant topics in e-commerce, web security, and engineering concepts such as the three-tier architecture and frameworks for the web."
                         android:textAlignment="center"
                         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                         android:textSize="14sp"
