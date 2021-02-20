@@ -43,14 +43,45 @@
 
     <string-array name="staff_dir">
         <item>Adrian-Leigh Gilman \n
+            Adjunct Lecturer \n
             Email: agilman@ucc.edu.jm\n
             Phone: 876-555-1234
         </item>
-        <item>Lori-Ann Gordon</item>
-        <item>Miguel</item>
-        <item>Kerry</item>
-        <item>Lisa</item>
-        <item>Natalie Rose</item>
+        <item>Lori-Ann Gordon \n
+            IT Lecturer \n
+            Email: lgordon@ucc.edu.jm \n
+            Phone: 876-555-4321
+        </item>
+        <item>Miguel Gill\n
+            IT Lecturer \n
+            Email: mgill@ucc.edu.jm \n
+            Phone: 876-555-5544
+        </item>
+        <item>Kerry Berry\n
+            Programme Coordinator \n
+            Email: kberry@ucc.edu.jm \n
+            Phone: 876-555-5566
+        </item>
+        <item>Lisa Smith\n
+            IT Lecturer \n
+            Email: lsmith@ucc.edu.jm \n
+            Phone: 876-555-7766
+        </item>
+        <item>Natalie Rose\n
+            IT HOD \n
+            Email: nrose@ucc.edu.jm \n
+            Phone: 876-555-8894
+        </item>
+        <item>Otis Osbourne\n
+            IT Lecturer \n
+            Email: oosbourne@ucc.edu.jm \n
+            Phone: 876-555-8894
+        </item>
+        <item>Henry Osborne\n
+            IT Lecturer \n
+            Email: hosbourne@ucc.edu.jm \n
+            Phone: 876-555-8894
+        </item>
     </string-array>
 
     <string-array name="course_list">
