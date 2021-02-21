@@ -17,10 +17,27 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@mipmap/logo_cr" />
 
+    <Button
+        android:id="@+id/admissions2"
+        android:layout_width="392dp"
+        android:layout_height="81dp"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="#ECF8F8"
+        android:drawableLeft="@mipmap/admissions"
+        android:text="Admissions"
+        android:textAlignment="textEnd"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ucclogo_adm" />
+
     <WebView
         android:id="@+id/wv_admit"
         android:layout_width="match_parent"
-        android:layout_height="750dp"
-        app:layout_constraintTop_toBottomOf="@+id/ucclogo_adm"
-        tools:layout_editor_absoluteX="188dp" />
+        android:layout_height="600dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/admissions2"
+        tools:layout_editor_absoluteX="-16dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>

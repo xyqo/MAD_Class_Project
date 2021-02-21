@@ -40,6 +40,7 @@
         android:layout_width="393dp"
         android:layout_height="495dp"
         android:textAlignment="center"
+        android:divider="@android:color/background_dark"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
