@@ -18,13 +18,8 @@ public class events extends AppCompatActivity {
         eventsWeb = new WebView(this);
 
 
-
-
-
-         eventsWeb.loadUrl("http://www.ucc.edu.jm/academic-calendar");
-        // eventsWeb.loadUrl("https://www.msn.com");
-        //eventsWeb.loadUrl("https://www.ucc.edu.jm/academic-calendar");
-
+        eventsWeb.loadUrl("https://www.ucc.edu.jm/academic-calendar");
+         // eventsWeb.loadUrl("https://www.msn.com");
     }
 
 }
